@@ -110,6 +110,17 @@ body {
   color: #b1eaff;
 }
 
+.resume .resume_left ul li a {
+  list-style: none;
+  text-decoration: none;
+  color: #fff;
+}
+
+.resume .resume_left ul li a:hover {
+  cursor: pointer;
+  color: red;
+}
+
 .resume .resume_left .resume_skills ul li {
   color: #b1eaff;
   justify-content: space-between;
